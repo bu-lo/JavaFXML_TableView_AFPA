@@ -1,1 +1,1 @@
-<img align="center" src="./Preview_UserManager.png" width="500" height="300" />
+<img align="center" src="./Preview_UserManager.png" width="500" height="350" />
